@@ -2,13 +2,13 @@
 
 ![](demo/demo.gif)
 
-## Update(1-1-2020)
+## Update(20-12-2023)
 Changes
 - fix bugs
 - refactor code
 - accerate detection by adding nms on gpu
 
-## Latest Update(07-22)
+## Latest Update
 Changes
 - bug fix (Thanks @JieChen91 and @yingsen1 for bug reporting).  
 - using batch for feature extracting for each frame, which lead to a small speed up.  
